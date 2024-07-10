@@ -3,6 +3,7 @@ import dotenv from "dotenv";
 import express from "express";
 
 import boardRoutes from "./routes/board.js";
+import eventsRoutes from "./routes/events.js";
 
 dotenv.config();
 
@@ -17,6 +18,8 @@ app.use(express.json());
 app.use(express.static("public"));
 
 app.use("/board", boardRoutes);
+
+app.use("/events", eventsRoutes);
 
 app.listen(PORT, () => {
   console.log(`Welcome to: http://localhost:${PORT}`);
