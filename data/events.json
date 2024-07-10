@@ -1,12 +1,33 @@
 [
-  {
-    "name": "Summer Festival",
-    "date": "June 1, 2024",
-    "venue": "Willow River Park (FKA., Victoria Park)",
-    "location": "Kitchener, ON",
-    "image": "",
-    "description": "Join us for tri-Pride’s Summer Festival at Willow River Park in Kitchener, ON. This family-friendly event features a vibrant vendor market with community organizations, businesses, and food trucks. Enjoy the Kid’s Zone with activities for kids or enjoy the many live performances from our local artists. Celebrate love, community, and PRIDE with us, and help us continue to grow and improve our events with your feedback. Don't miss out on this exciting day of celebration and community spirit!",
-    "images": "external link to google drive photos"
-  }
-]
+    {
+      "name": "Summer Festival",
+      "date": "June 1, 2024",
+      "time": "12-8PM",
+      "venue": "Willow River Park (FKA., Victoria Park)",
+      "location": "Kitchener, ON",
+      "image": "",
+      "description": "Join us for tri-Pride’s Summer Festival at Willow River Park in Kitchener, ON. This family-friendly event features a vibrant vendor market with nearly 70 community organizations, businesses, and food trucks. Enjoy the Kid’s Zone with activities from Kitchener Public Library, Sun Life’s Drag Story Time, face painting, and an inflatable slide and bouncy castle. Celebrate love, community, and PRIDE with us, and help us continue to grow and improve our events with your feedback. Don't miss out on this exciting day of celebration and community spirit!",
+      "images": "external link to google drive photos"
+    },
+    {
+      "name": "CLUB RED",
+      "date": "February 17, 2024",
+      "time": "9-2AM",
+      "venue": "Willow River Park Pavilion (FKA., Victoria Park)",
+      "location": "Kitchener, ON",
+      "image": "",
+      "description": "CLUB RED: a chrome-tastic celebration of love, in all its glory and variety. Bookended by Valentine's Day and Family Day, tri-Pride is thrilled to revive WinterFest for a ONE NIGHT ONLY dance experience on Saturday February 17th. We’re transforming the Willow River Park Pavilion into your digital daydreams with beloved local DJs. Don't miss this chance to celebrate in a spectacular setting and dance the night away!",
+      "images": ""
+    },
+    {
+      "name": "PRIDEtoberfest",
+      "date": "October 7, 2023",
+      "time": "8-1AM",
+      "venue": "Ken Seiling Museum",
+      "location": "Kitchener, ON",
+      "image": "",
+      "description": "Join us for PRIDEtoberfest tri-Pride’s annual Fall Pride party for our Kitchener-Waterloo-Cambridge Rainbow family. This event combines the celebration of pride with the festive spirit of Oktoberfest. Enjoy a night filled with local and national talent with out drag show and dance party. Don't miss out on this unique event that blends cultural traditions with the vibrant energy of the 2SLGBTQIIA+ community.",
+      "images": ""
+    }
+  ]
   
