@@ -6,6 +6,7 @@
       "venue": "Willow River Park (FKA., Victoria Park)",
       "location": "Kitchener, ON",
       "image": "http://localhost:8080/images/events/SUMMERFEST.png",
+      "bgimage": "http://localhost:8080/images/events/SUMMERFESTbg.png",
       "description": "Join us for tri-Pride’s Summer Festival at Willow River Park in Kitchener, ON. This family-friendly event features a vibrant vendor market with nearly 70 community organizations, businesses, and food trucks. Enjoy the Kid’s Zone with activities from Kitchener Public Library, Sun Life’s Drag Story Time, face painting, and an inflatable slide and bouncy castle. Celebrate love, community, and PRIDE with us, and help us continue to grow and improve our events with your feedback. Don't miss out on this exciting day of celebration and community spirit!",
       "images": "external link to google drive photos"
     },
@@ -16,6 +17,7 @@
       "venue": "Willow River Park Pavilion (FKA., Victoria Park)",
       "location": "Kitchener, ON",
       "image": "http://localhost:8080/images/events/CLUBRED.png",
+      "bgimage": "http://localhost:8080/images/events/CLUBREDbg.png",
       "description": "CLUB RED: a chrome-tastic celebration of love, in all its glory and variety. Bookended by Valentine's Day and Family Day, tri-Pride is thrilled to revive WinterFest for a ONE NIGHT ONLY dance experience on Saturday February 17th. We’re transforming the Willow River Park Pavilion into your digital daydreams with beloved local DJs. Don't miss this chance to celebrate in a spectacular setting and dance the night away!",
       "images": ""
     },
@@ -26,6 +28,7 @@
       "venue": "Ken Seiling Museum",
       "location": "Kitchener, ON",
       "image": "http://localhost:8080/images/events/PRIDEtoberfest.png",
+      "bgimage": "http://localhost:8080/images/events/PRIDEtoberfestbg.png",
       "description": "Join us for PRIDEtoberfest tri-Pride’s annual Fall Pride party for our Kitchener-Waterloo-Cambridge Rainbow family. This event combines the celebration of pride with the festive spirit of Oktoberfest. Enjoy a night filled with local and national talent with out drag show and dance party. Don't miss out on this unique event that blends cultural traditions with the vibrant energy of the 2SLGBTQIIA+ community.",
       "images": ""
     }
