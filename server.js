@@ -21,6 +21,6 @@ app.use("/board", boardRoutes);
 
 app.use("/events", eventsRoutes);
 
-app.listen(PORT, () => {
-  console.log(`Welcome to: http://localhost:${PORT}`);
+app.listen(PORT, "0.0.0.0", () => {
+  console.log(`Welcome to: http://0.0.0.0:${PORT}`);
 });
