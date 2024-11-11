@@ -6,8 +6,8 @@ const router = express.Router();
 
 const readEvents = () => {
   // Use path.join to construct the path to events.json
-  const eventsFilePath = path.join(__dirname, "..", "data", "events.json"); // Updated line to use __dirname
-  const eventsFile = fs.readFileSync(eventsFilePath);
+  const eventsFilePath = path.join(process.cwd(), "data", "events.json"); // Updated line to use process.cwd()
+  const eventsFile = fs.readFileSync(eventsFilePath, "utf-8"); // Read file as UTF-8
   const events = JSON.parse(eventsFile);
   return events;
 };
@@ -29,7 +29,7 @@ router.get("/:eventId", (req, res) => {
     const event = events.find((event) => event.id == eventId);
 
     if (!event) {
-      console.log(`event not found for ID: ${eventId}`);
+      console.log(`Event not found for ID: ${eventId}`);
       return res.status(404).send("Event not found");
     }
     res.json(event);
